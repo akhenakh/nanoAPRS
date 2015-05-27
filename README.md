@@ -5,7 +5,8 @@ The design is totally based on Mark Qvist [MicroModem](https://github.com/markqv
 ![iphone aprs](img/iphone.png)
 
 nonaprs.fzz is the Fritzing file, the associated gerber files are in gerber_export directory.  
-This is not the best PCB design but it works perfectly, I'm using it for an iPhone project I'm working on.
+This is not the best PCB design but it works perfectly, I'm using it for an iPhone project I'm working on. 
+
 ![Demo](img/demo.jpg)
 
 You can order it on [OSHPark](https://oshpark.com/shared_projects/laC2cJYu).
