@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=nonaprs
+*Date=22:31:32
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100k;THT;22.5437;-44.5389;0;Bottom;RMODIN
+2;2.2k;THT;6.76721;-16.0171;180;Bottom;RDAC8
+3;100nF;100 mil [THT, multilayer];5.42521;-45.2617;-1.27222e-13;Bottom;C_DAC4
+4;;audio-jack;7.13191;-55.5625;90;Bottom;to 3.5mm
+5;270;THT;7.74299;-31.3625;-135;Bottom;RDAC6
+6;4.7µF;100 mil [THT, electrolytic];4.97902;-26.7134;180;Bottom;C_DAC3
+7;1k;THT;6.76721;-13.2502;180;Bottom;RDAC7
+8;1µF;100 mil [THT, multilayer];28.8768;-57.4096;-1.01778e-13;Bottom;C_IN
+9;100k;THT;2.0329;-34.4022;-90;Bottom;ROUT3
+10;;;19.8933;-21.2489;90;Bottom;TXT2
+11;;;19.7518;-60.0807;0;Bottom;TXT3
+12;3.9k;THT;6.76721;-18.5882;180;Bottom;RDAC9
+13;;;25.4865;-12.5935;90;Bottom;TXT1
+14;;;7.20502;-60.1775;0;Bottom;TXT3
+15;10k;THT;12.2504;-36.6956;90;Bottom;RPTT
+16;;THT;1.6657;-1.62069;0;Bottom;3.3V
+17;;;23.2023;-21.8805;0;Bottom;Nano
+18;;to-92;10.8827;-46.6572;-180;Bottom;2N7000
+19;100k;THT;25.5606;-47.417;0;Bottom;RMODIN
+20;;THT;1.6657;-9.37108;0;Bottom;GND
+21;1k;THT;5.59161;-38.8261;-135;Bottom;ROUT4
+22;8.2k;THT;6.76721;-21.1039;180;Bottom;RDAC10
+23;;THT;1.6657;-4.19908;0;Bottom;D12
+24;;audio-jack;19.7596;-55.6566;90;Bottom;to 2.5mm
+25;;THT;1.6657;-6.76786;0;Bottom;D11
