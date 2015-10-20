@@ -9,6 +9,6 @@ This is not the best PCB design but it works perfectly, I'm using it for an iPho
 
 ![Demo](img/demo.jpg)
 
-You can order it on [OSHPark](https://oshpark.com/shared_projects/laC2cJYu).
+You can order it on [OSHPark](https://oshpark.com/shared_projects/3bdb5KZL).
 
 You can program the modem with the [library from Mark](https://github.com/markqvist/LibAPRS)

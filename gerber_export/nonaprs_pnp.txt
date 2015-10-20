@@ -4,8 +4,8 @@
 *eMail=
 *
 *Project=nonaprs
-*Date=22:31:32
-*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*Date=13:55:13
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
 *
 *
 *Coordinates in mm, always center of component
@@ -13,28 +13,76 @@
 *Rotation in degree (0-360, math. pos.)
 *
 *No;Value;Package;X;Y;Rotation;Side;Name
-1;100k;THT;22.5437;-44.5389;0;Bottom;RMODIN
-2;2.2k;THT;6.76721;-16.0171;180;Bottom;RDAC8
-3;100nF;100 mil [THT, multilayer];5.42521;-45.2617;-1.27222e-13;Bottom;C_DAC4
-4;;audio-jack;7.13191;-55.5625;90;Bottom;to 3.5mm
-5;270;THT;7.74299;-31.3625;-135;Bottom;RDAC6
-6;4.7µF;100 mil [THT, electrolytic];4.97902;-26.7134;180;Bottom;C_DAC3
-7;1k;THT;6.76721;-13.2502;180;Bottom;RDAC7
-8;1µF;100 mil [THT, multilayer];28.8768;-57.4096;-1.01778e-13;Bottom;C_IN
-9;100k;THT;2.0329;-34.4022;-90;Bottom;ROUT3
-10;;;19.8933;-21.2489;90;Bottom;TXT2
-11;;;19.7518;-60.0807;0;Bottom;TXT3
-12;3.9k;THT;6.76721;-18.5882;180;Bottom;RDAC9
-13;;;25.4865;-12.5935;90;Bottom;TXT1
-14;;;7.20502;-60.1775;0;Bottom;TXT3
-15;10k;THT;12.2504;-36.6956;90;Bottom;RPTT
-16;;THT;1.6657;-1.62069;0;Bottom;3.3V
-17;;;23.2023;-21.8805;0;Bottom;Nano
-18;;to-92;10.8827;-46.6572;-180;Bottom;2N7000
-19;100k;THT;25.5606;-47.417;0;Bottom;RMODIN
-20;;THT;1.6657;-9.37108;0;Bottom;GND
-21;1k;THT;5.59161;-38.8261;-135;Bottom;ROUT4
-22;8.2k;THT;6.76721;-21.1039;180;Bottom;RDAC10
-23;;THT;1.6657;-4.19908;0;Bottom;D12
-24;;audio-jack;19.7596;-55.6566;90;Bottom;to 2.5mm
-25;;THT;1.6657;-6.76786;0;Bottom;D11
+1;;;2.4892;-9.4319;0;Bottom;Copper Fill34
+2;;;31.4706;-37.1687;0;Bottom;Copper Fill31
+3;;;30.3784;-42.744;0;Bottom;Copper Fill28
+4;;;7.0993;-58.619;0;Bottom;Copper Fill45
+5;1k;THT;6.76721;-13.2502;180;Bottom;RDAC7
+6;;;10.1092;-35.2891;0;Bottom;Copper Fill42
+7;;;7.0993;-56.587;0;Bottom;Copper Fill46
+8;;;12.1793;-32.5332;0;Bottom;Copper Fill35
+9;;;8.1026;-57.5903;0;Bottom;Copper Fill25
+10;;audio-jack;19.7596;-55.6566;90;Bottom;to 2.5mm
+11;4.7µF;100 mil [THT, electrolytic];4.97902;-26.7134;180;Bottom;C_DAC3
+12;1k;THT;5.59161;-38.8261;-135;Bottom;ROUT4
+13;;THT;1.6657;-6.76786;0;Bottom;D11
+14;;;19.7612;-53.6914;0;Bottom;Copper Fill2
+15;;;16.0782;-30.6028;0;Bottom;Copper Fill30
+16;;;2.4638;-48.7892;0;Bottom;Copper Fill27
+17;;;3.0988;-41.0168;0;Bottom;Copper Fill6
+18;;;7.0993;-58.619;0;Bottom;Copper Fill23
+19;;;11.3284;-31.6823;0;Bottom;Copper Fill36
+20;100k;THT;22.5437;-44.5389;0;Bottom;RMODIN
+21;;;8.1026;-57.5903;0;Bottom;Copper Fill48
+22;3.9k;THT;6.76721;-18.5882;180;Bottom;RDAC9
+23;;;4.5466;-30.933;0;Bottom;Copper Fill8
+24;;;28.8036;-39.4928;0;Bottom;Copper Fill5
+25;;;6.6421;-46.0968;0;Bottom;Copper Fill22
+26;;;31.4706;-37.1687;0;Bottom;Copper Fill17
+27;;;17.4117;-43.76;0;Bottom;Copper Fill38
+28;;;6.0706;-57.5903;0;Bottom;Copper Fill24
+29;100k;THT;25.5606;-47.417;0;Bottom;RMODIN
+30;;;2.6416;-25.2688;0;Bottom;Copper Fill9
+31;;;18.2626;-44.5855;0;Bottom;Copper Fill39
+32;;;17.4117;-45.4364;0;Bottom;Copper Fill37
+33;270;THT;7.74299;-31.3625;-135;Bottom;RDAC6
+34;;;16.0782;-56.5362;0;Bottom;Copper Fill1
+35;;;16.3322;-32.0887;0;Bottom;Copper Fill32
+36;;;0.7874;-9.4319;0;Bottom;Copper Fill33
+37;;;9.1313;-34.2858;0;Bottom;Copper Fill41
+38;;;25.4865;-12.5935;90;Bottom;TXT1
+39;;THT;1.6657;-9.37108;0;Bottom;GND
+40;;;7.20502;-60.1775;0;Bottom;TXT3
+41;;;29.718;-25.4974;0;Bottom;Copper Fill29
+42;;;13.7668;-21.5604;0;Bottom;Copper Fill10
+43;10k;THT;12.2504;-36.6956;90;Bottom;RPTT
+44;;;23.2023;-21.8805;0;Bottom;Nano
+45;8.2k;THT;6.76721;-21.1039;180;Bottom;RDAC10
+46;;;6.6421;-44.522;0;Bottom;Copper Fill43
+47;100nF;100 mil [THT, multilayer];5.42521;-45.2617;-1.27222e-13;Bottom;C_DAC4
+48;;to-92;10.8827;-46.6572;-180;Bottom;2N7000
+49;1µF;100 mil [THT, multilayer];28.8768;-57.4096;-1.01778e-13;Bottom;C_IN
+50;;;17.4117;-45.4364;0;Bottom;Copper Fill19
+51;;;19.7518;-60.0807;0;Bottom;TXT3
+52;;;29.9212;-37.1687;0;Bottom;Copper Fill16
+53;100k;THT;2.0329;-34.4022;-90;Bottom;ROUT3
+54;;;16.5608;-44.5855;0;Bottom;Copper Fill20
+55;;;7.1374;-51.634;0;Bottom;Copper Fill26
+56;2.2k;THT;6.76721;-16.0171;180;Bottom;RDAC8
+57;;THT;1.6657;-1.62069;0;Bottom;3.3V
+58;;;9.1313;-36.2924;0;Bottom;Copper Fill40
+59;;;19.8933;-21.2489;90;Bottom;TXT2
+60;;;6.0706;-57.5903;0;Bottom;Copper Fill47
+61;;;26.8478;-3.2724;0;Bottom;Copper Fill14
+62;;;15.6972;-29.536;0;Bottom;Copper Fill15
+63;;;13.7668;-18.995;0;Bottom;Copper Fill11
+64;;;0.7874;-9.4319;0;Bottom;Copper Fill18
+65;;THT;1.6657;-4.19908;0;Bottom;D12
+66;;;13.716;-16.3534;0;Bottom;Copper Fill12
+67;;;23.495;-53.8946;0;Bottom;Copper Fill3
+68;;;8.7122;-5.4568;0;Bottom;Copper Fill13
+69;;;30.3276;-50.0846;0;Bottom;Copper Fill4
+70;;;11.2649;-26.8436;0;Bottom;Copper Fill44
+71;;;17.0942;-34.7176;0;Bottom;Copper Fill7
+72;;;18.2626;-44.5855;0;Bottom;Copper Fill21
+73;;audio-jack;7.13191;-55.5625;90;Bottom;to 3.5mm
